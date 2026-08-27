@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Roberson
 
-<!--
-**roberpineda319/roberpineda319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Seguridad de la Información.
+Construyendo base en Linux, redes, Python y operaciones de seguridad.
 
-Here are some ideas to get you started:
+## Ahora mismo
+- Ruta de 6 meses hacia Help Desk / NOC / SOC L1
+- Laboratorios documentados, no solo cursos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Próximos repos
+- Network Security Toolkit
+- SOC lab: detección de brute force
+- Vulnerability assessment de laboratorio
