@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Roberson+Felipe+Pineda+Pulido;Seguridad+de+la+Informaci%C3%B3n;Linux+%C2%B7+Redes+%C2%B7+Python+%C2%B7+SOC;Notion+como+sistema+de+estudio" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Roberson+Felipe+Pineda+Pulido;Ingenier%C3%ADa+en+Seguridad+de+la+Informaci%C3%B3n;Enfoque+en+Cybersecurity;Linux+%C2%B7+Redes+%C2%B7+Python+%C2%B7+SOC;Notion+como+sistema+de+estudio" alt="Typing header" />
 
-**Estudiante de Ingeniería en Seguridad de la Información**
+**Estudiante de Ingeniería en Seguridad de la Información · Cybersecurity**
 
 Bogotá, Colombia · UTC−5
 
@@ -10,6 +10,7 @@ Bogotá, Colombia · UTC−5
 
 <a href="https://github.com/roberpineda319"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Cybersecurity-7C3AED?style=for-the-badge" alt="Cybersecurity" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <a href="mailto:rauschglanz@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -23,7 +24,9 @@ Bogotá, Colombia · UTC−5
 
 ### Quién soy
 
-Estudiante de Ingeniería en Seguridad de la Información en el **Politécnico Grancolombiano**. Estoy construyendo una base técnica real —Linux, redes, Python y laboratorios documentados— para mi primer empleo tech: **Help Desk**, **NOC** o **SOC L1**.
+Estudiante de Ingeniería en Seguridad de la Información en el **Politécnico Grancolombiano**, con enfoque específico en **cybersecurity**: operaciones, laboratorios y cloud.
+
+Estoy construyendo una base técnica real —Linux, redes, Python y labs documentados— para mi primer empleo tech: **Help Desk**, **NOC** o **SOC L1**, y de ahí moverme a seguridad.
 
 Me importa el trabajo que deja evidencia: apuntes, comandos, writeups y repos que puedo explicar. No colecciono cursos. Documento lo que practico.
 
@@ -34,7 +37,7 @@ Mi sistema de estudio, roadmap y búsqueda de empleo vive en **Notion**. GitHub 
 ### Ahora mismo
 
 ```text
-Universidad  →  Linux + redes  →  labs de SOC  →  Security+  →  primer empleo tech
+Universidad  →  Linux + redes  →  labs de SOC  →  Security+  →  primer empleo tech  →  cybersecurity
 ```
 
 Ruta de 6 meses, un bloque activo a la vez:
@@ -96,10 +99,11 @@ Lo que estoy usando de verdad. Lo demás se agrega cuando haya evidencia.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**Lenguajes, seguridad y sistema**
+**Lenguajes, cybersecurity y sistema**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cybersecurity-7C3AED?style=for-the-badge" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/SIEM-111827?style=for-the-badge" alt="SIEM" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
@@ -111,7 +115,7 @@ Lo que estoy usando de verdad. Lo demás se agrega cuando haya evidencia.
 
 ### Formación
 
-- **Ingeniería en Seguridad de la Información** — Politécnico Grancolombiano (virtual), en curso
+- **Ingeniería en Seguridad de la Información** — Politécnico Grancolombiano (virtual), en curso. Enfoque: **cybersecurity**.
 - **CompTIA Security+ (SY0-701)** — objetivo de esta ruta; aún no la presento
 
 ### Cómo trabajo
@@ -125,10 +129,11 @@ Lo que estoy usando de verdad. Lo demás se agrega cuando haya evidencia.
 
 <div align="center">
 
-**GitHub es el portafolio. Notion es el sistema.**
+**GitHub es el portafolio. Notion es el sistema. Cybersecurity es la dirección.**
 
 <a href="https://github.com/roberpineda319"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Cybersecurity-7C3AED?style=for-the-badge" alt="Cybersecurity" />
 <a href="mailto:rauschglanz@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <sub>Bogotá, Colombia · UTC−5</sub>
